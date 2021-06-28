@@ -11,8 +11,8 @@ resources:
   title: "Image #:counter"
 ---
 
-[![Check Report](https://github.com/cybertraining-dsc/hid-example/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-371/actions)
-[![Status](https://github.com/cybertraining-dsc/hid-example/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-371/actions)
+[![Check Report](https://github.com/cybertraining-dsc/su21-reu-371/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-371/actions)
+[![Status](https://github.com/cybertraining-dsc/su21-reu-371/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-371/actions)
 Status: draft, Type: Project
 
 

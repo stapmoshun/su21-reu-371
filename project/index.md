@@ -1,10 +1,10 @@
 ---
 date: 2021-06-16
-title: "Project: This is the Descriptive Title of the Example"
-linkTitle: "371"
-tags: ["project", "reu"]
-description: "Here comes the abstract"
-author: Raeven Hatcher
+title: "Project: Detecting Multiple Sclerosis Symptoms using AI" 
+linkTitle: "Multiple Schelrosis and AI"
+tags: ["project", "reu", "multiple sclerosis", "disease", "AI", "machine learning"]
+description: "This work implements machine learning algorithim Multiple Sclerosis symptoms and provides treatment options available"
+Author: "Raeven Hatcher"
 github_url: https://github.com/cybertraining-dsc/su21-reu-371/edit/main/project/index.md
 resources:
 - src: "**.{png,jpg}"
@@ -16,13 +16,16 @@ resources:
 Status: draft, Type: Project
 
 
-Firstname Lastname, [su21-reu-371](https://github.com/cybertraining-dsc/su21-reu-371), [Edit](https://github.com/cybertraining-dsc/su21-reu-371/blob/main/project/index.md)
+Raeven Hatcher, [su21-reu-371](https://github.com/cybertraining-dsc/su21-reu-371), [Edit](https://github.com/cybertraining-dsc/su21-reu-371/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
 ## Abstract
 
-Here comes a short abstract of the project that summarizes what it is about
+- [ ] describe M.S. symptoms and causes, treatment options, (brief)
+- [ ] desribe how to resolve the problem (using AI)
+- [ ] describe what I want my data to obtain
+- [ ] describe what the problem is  
 
 Contents
 
@@ -34,65 +37,19 @@ Contents
 
 ## 1. Introduction
 
-Do not include this tip in your document:
+- [ ] extend the discreption that was put in abstract (can be a paragraph each)
+- [ ] do a brief discription about the data set 
+- [ ] thorougly describe what the problem is 
+ 
 
-> Tip: Please note that an up to date version of these instructions is available at
->
-> * <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
 
 
-Here comes a convincing introduction to the problem
 
-## 2. Report Format
 
-The report is written in (hugo) markdown and not commonmark. As such some features are not visible in GitHub. You can 
-set up hugo on your local computer if you want to see how it renders or commit and wait 10 minutes once your report is 
-bound into cybertraining.
 
-To set up the report, you must first `replace` the word `hid-example in this example report with your hid. the hid will 
-look something like `sp21-599-111`
 
-It is to be noted that markdown works best if you include an empty line before and after each context change. 
-Thus the following is wrong:
 
-```
-# This is My Headline
-This author does ignore proper markdown while not using empty lines between context changes
-1. This is because this author ignors all best practices
-```
 
-Instead, this should be 
-
-```
-# This is My Headline
-
-We do not ignore proper markdown while using empty lines between context changes
-
-1. This is because we encourage best practices to cause issues.
-```
-
-## 2.1. GitHub Actions
-
-When going to GitHub Actions you will see a report is autmatically generated with some help on improving your markdown. 
-We will not review any document that does not pass this check.
-
-## 2.2. PAst Copy from Word or other Editors is a Disaster!
-
-We recommend that you sue a proper that is integrated with GitHub or you use the commandline tools. We may include 
-comments into your document that you will have to fix, If you juys past copy you will 
-
-1. Not learn how to use GitHub properly and we deduct points
-2. Overwrite our coments that you than may miss and may result in point deductions as you have not addressed them.
-
-## 2.3. Report or Project
-
-You have two choices for the final project. 
-
-1. Project, That is a final report that includes code.
-2. Report, that is a final project without code.
-   
-YOu will be including the type of the project as a prefix to your title, as well as in the Type tag
-at the beginning of your project.
 
 ## 3. Using Images
 
@@ -100,12 +57,13 @@ at the beginning of your project.
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
 
-## 4. Using itemized lists only where needed
+ steps to insert picture
+ 1. download picture to computer
+ 2. Upload image into repository
+ 3. Change path to what I saved picture as on github
+ 4. Create a description for the image 
 
-Remember this is not a powerpoint presentation, but a report so we recommend
 
-1. Use itemized or enumeration lists sparingly
-2. When using bulleted lists use * and not - 
    
 ## 5. Datasets
 

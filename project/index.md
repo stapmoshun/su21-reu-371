@@ -65,26 +65,31 @@ Contents
 
 
    
-## 5. Datasets
+## 4. Datasets
 
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
 However, if the data is publicly available you program must contain a download function instead that you customize.
 Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
 the download function.
+- [ ] look on google or kaggle to find dataset 
+- [ ] http://biogps.org/#goto=genereport&id=1017&show_dataset=E-GEOD-21942.  look on this website! find this first
+- [ ] describe the dataset found
+- [ ] mode, median, mean (can calculate this to add into section)
 
-## 6. Benchmark
+## 5. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
+- [ ] define method that will be used to study the performance of the proposed method 
  
 ## 6. Conclusion
 
 A convincing but not fake conclusion should summarize what the conclusion of the project is.
 
-## 8. Acknowledgments
+## 7. Acknowledgments
 
-Please add acknowledgments to all that contributed or helped on this project.  
+Please add acknowledgments to all that contributed or helped on this project.  can put instructors
 
-## 9. References
+## 8. References
 
 Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
 one point automatically change the references from superscript to square brackets it is best to introduce a space before 

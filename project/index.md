@@ -22,10 +22,7 @@ Raeven Hatcher, [su21-reu-371](https://github.com/cybertraining-dsc/su21-reu-371
 
 ## Abstract
 
-- [ ] describe M.S. symptoms and causes, treatment options, (brief)
-- [ ] desribe how to resolve the problem (using AI)
-- [ ] describe what I want my data to obtain
-- [ ] describe what the problem is  
+Multiple sclerosis, also known as M.S., is a chronic central nervous system disease that potentially affects the brain, spinal cord, and optic nerves in the eyes. In this potentially disabling disease, one's immune system attacks the myelin (protective sheath) that covers nerve fibers, resulting in communication problems between the brain and the body. The cause of M.S. is unknown; however, researchers believe that genetic and environmental factors play a role in those affected. Symptoms differ significantly from person to person due to varying nerves involved. Some
 
 Contents
 

@@ -1,7 +1,7 @@
 ---
 date: 2021-06-16
 title: "Project: Detecting Multiple Sclerosis Symptoms using AI" 
-linkTitle: "Multiple Schelrosis and AI"
+linkTitle: "Multiple Sclerosis and AI"
 tags: ["project", "reu", "multiple sclerosis", "disease", "AI", "machine learning"]
 description: "This work implements machine learning algorithim Multiple Sclerosis symptoms and provides treatment options available"
 Author: "Raeven Hatcher"
@@ -22,9 +22,11 @@ Raeven Hatcher, [su21-reu-371](https://github.com/cybertraining-dsc/su21-reu-371
 
 ## Abstract
 
-Multiple sclerosis, also known as M.S., is a chronic central nervous system disease that potentially affects the brain, spinal cord, and optic nerves in the eyes. In this potentially disabling disease, one's immune system attacks the myelin (protective sheath) that covers nerve fibers, resulting in communication problems between the brain and the body. The cause of M.S. is unknown; however, researchers believe that genetic and environmental factors play a role in those affected. Symptoms differ significantly from person to person due to varying nerves involved. The most common symptoms include tremors, numbness or weakness in limbs, vision loss, blurry vision, double vision, slurred speech, fatigue, dizziness, involuntary movement, and muscle paralysis. There is currently no cure for Multiple sclerosis. Treatment focuses on slowing the progression of the disease and managing symptoms.  
-	There is no proven way to predict how an individual with Multiple Sclerosis will progress certainly. However, researchers established four phenotypes that will assist in identifying those who are more inclined to have disease progression and help aid in more effective treatment targeting.     
-	In this experiment, Artificial Intelligence will be applied by ascertaining what causes these different phenotypes and which phenotype is at most risk for disease progression using a Magnetic Resonance Scan.  
+Multiple sclerosis (M.S.) is a chronic central nervous system disease that potentially affects the brain, spinal cord, and optic nerves in the eyes. In this potentially disabling disease, one's immune system attacks the myelin (protective sheath) that covers nerve fibers, resulting in communication problems between the brain and the body. The cause of M.S. is unknown; however, researchers believe that genetic and environmental factors play a role in those affected. Symptoms differ significantly from person to person due to varying nerves involved. The most common symptoms include tremors, numbness or weakness in limbs, vision loss, blurry vision, double vision, slurred speech, fatigue, dizziness, involuntary movement, and muscle paralysis. There is currently no cure for Multiple sclerosis. Treatment focuses on slowing the progression of the disease and managing symptoms.  
+
+There is no proven way to predict how an individual with Multiple Sclerosis will progress certainly. However, researchers established four phenotypes that will assist in identifying those who are more inclined to have disease progression and help aid in more effective treatment targeting.  
+
+In this experiment, Artificial Intelligence will be applied by ascertaining what causes these different phenotypes and which phenotype is at most risk for disease progression using a Magnetic Resonance Scan.  
 
 Contents
 

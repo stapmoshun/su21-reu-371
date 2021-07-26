@@ -50,6 +50,7 @@ In this experiment, researchers utilized the SuStain tool to capture MRI scans o
 ## 3. Using Images
 
 ![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
+![projectpic2](https://user-images.githubusercontent.com/85815818/126948339-7723b810-83e4-463b-a2b0-bf417fac4458.jpg)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
 

@@ -49,7 +49,7 @@ In this experiment, researchers utilized the SuStain tool to capture MRI scans o
 
 ## 3. Using Images
 ![projectpic2](https://user-images.githubusercontent.com/85815818/126948339-7723b810-83e4-463b-a2b0-bf417fac4458.jpg)
-The above picture shows the MRI-based subtypes.
+The above image shows the MRI-based subtypes. The color shades range from blue to pink, representing the probability of abnormality mild to severe, respectively. (Eshaghi) 
 
 
 

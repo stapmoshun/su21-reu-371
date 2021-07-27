@@ -91,8 +91,11 @@ When SuStain was applied to a large set of Multiple sclerosis scans, it identifi
 ## 8. References
 
  [^1]: Eshaghi, A., Young, A. L., Wijeratne, P. A., Prados, F., Arnold, D. L., Narayanan, S., Guttmann, C. R. G., Barkhof, F., Alexander, D. C., Thompson, A. J., Chard, D., &amp; Ciccarelli, O. (2021, April 6). Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data. Nature News. https://www.nature.com/articles/s41467-021-22265-2. 
+ 
  [^2]: Mayo Foundation for Medical Education and Research. (2020, June 12). Multiple sclerosis. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269. 
  [^3]: MediLexicon International. (n.d.). Multiple sclerosis (MS): Types, symptoms, and causes. Medical News Today. https://www.medicalnewstoday.com/articles/37556. 
+ 
  [^4]: Skylar Kenney, A. E. (2021, April 12). Artificial Intelligence Identifies Novel Multiple Sclerosis Subtypes. Pharmacy Times. https://www.pharmacytimes.com/view/artificial-intelligence-identifies-novel-multiple-sclerosis-subtypes. 
+ 
  [^5]: Ucl. (2021, April 8). New multiple sclerosis subtypes identified using artificial intelligence. UCL News. https://www.ucl.ac.uk/news/2021/apr/new-multiple-sclerosis-subtypes-identified-using-artificial-intelligence. 
 What Is MS? National Multiple Sclerosis Society. (n.d.). https://www.nationalmssociety.org/What-is-MS. 

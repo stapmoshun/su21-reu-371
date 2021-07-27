@@ -63,7 +63,7 @@ The above image shows the MRI-based subtypes. The color shades range from blue t
 
 MRI brain scans of 6,322 MS patients. look if you can find figures descrbing the data.
 
-CANT FIND
+
 
 ## 5. Benchmark
 

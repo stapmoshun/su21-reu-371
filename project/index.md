@@ -83,6 +83,7 @@ When SuStain was applied to a large set of Multiple sclerosis scans, it identifi
 
 ## 7. Acknowledgments
 
+-Gregor von Laszewski
 -Yohn Jairo
 -Carlos Theran
 

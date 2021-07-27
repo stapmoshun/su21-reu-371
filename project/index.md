@@ -53,13 +53,7 @@ The above picture shows the MRI-based subtypes.
 
 
 
-**Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
 
- steps to insert picture
- 1. download picture to computer
- 2. Upload image into repository
- 3. Change path to what I saved picture as on github
- 4. Create a description for the image 
 
 
    

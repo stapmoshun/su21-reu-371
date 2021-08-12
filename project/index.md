@@ -48,15 +48,10 @@ Researchers at UCL work with the Artificial intelligence (AI) tool SuStain (Subt
 In this experiment, researchers utilized the SuStain tool to capture MRI scans of 6,332 patients. The unsupervised SuStain taught itself and identified those three patterns that were previously undiscovered. 
 
 ## 3. Using Images
+
 ![projectpic2](https://user-images.githubusercontent.com/85815818/126948339-7723b810-83e4-463b-a2b0-bf417fac4458.jpg)
 The above image shows the MRI-based subtypes. The color shades range from blue to pink, representing the probability of abnormality mild to severe, respectively. (Eshaghi) 
 ![INSERTPIC](https://user-images.githubusercontent.com/85815818/127168907-4d7e444f-14bd-4ee3-8027-a7b0e5b7d213.jpg)
-
-
-
-
-
-
 
    
 ## 4. Datasets
@@ -67,8 +62,7 @@ MRI brain scans of 6,322 MS patients. look if you can find figures descrbing the
 
 ## 5. Benchmark
 
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
-- [ ] define method that will be used to study the performance of the proposed method 
+Your project must include a benchmark. The easiest is to use cloudmesh-common.
  
 ## 6. Conclusion
 
@@ -84,18 +78,18 @@ When SuStain was applied to a large set of Multiple sclerosis scans, it identifi
 
 ## 7. Acknowledgments
 
--Gregor von Laszewski
--Yohn Jairo
--Carlos Theran
+The author likes to thank Gregor von Laszewski, Yohn Jairo, and Carlos Theran.
 
 ## 8. References
 
- [^1]: Eshaghi, A., Young, A. L., Wijeratne, P. A., Prados, F., Arnold, D. L., Narayanan, S., Guttmann, C. R. G., Barkhof, F., Alexander, D. C., Thompson, A. J., Chard, D., &amp; Ciccarelli, O. (2021, April 6). Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data. Nature News. https://www.nature.com/articles/s41467-021-22265-2. 
+[^1]: Eshaghi, A., Young, A. L., Wijeratne, P. A., Prados, F., Arnold, D. L., Narayanan, S., Guttmann, C. R. G., Barkhof, F., Alexander, D. C., Thompson, A. J., Chard, D., &amp; Ciccarelli, O. (2021, April 6). Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data. Nature News. https://www.nature.com/articles/s41467-021-22265-2. 
  
- [^2]: Mayo Foundation for Medical Education and Research. (2020, June 12). Multiple sclerosis. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269. 
- [^3]: MediLexicon International. (n.d.). Multiple sclerosis (MS): Types, symptoms, and causes. Medical News Today. https://www.medicalnewstoday.com/articles/37556. 
+[^2]: Mayo Foundation for Medical Education and Research. (2020, June 12). Multiple sclerosis. Mayo Clinic. <https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269>.
+
+[^3]: MediLexicon International. (n.d.). Multiple sclerosis (MS): Types, symptoms, and causes. Medical News Today. <https://www.medicalnewstoday.com/articles/37556>.
  
- [^4]: Skylar Kenney, A. E. (2021, April 12). Artificial Intelligence Identifies Novel Multiple Sclerosis Subtypes. Pharmacy Times. https://www.pharmacytimes.com/view/artificial-intelligence-identifies-novel-multiple-sclerosis-subtypes. 
+[^4]: Skylar Kenney, A. E. (2021, April 12). Artificial Intelligence Identifies Novel Multiple Sclerosis Subtypes. Pharmacy Times. <https://www.pharmacytimes.com/view/artificial-intelligence-identifies-novel-multiple-sclerosis-subtypes>.
  
- [^5]: Ucl. (2021, April 8). New multiple sclerosis subtypes identified using artificial intelligence. UCL News. https://www.ucl.ac.uk/news/2021/apr/new-multiple-sclerosis-subtypes-identified-using-artificial-intelligence. 
-What Is MS? National Multiple Sclerosis Society. (n.d.). https://www.nationalmssociety.org/What-is-MS. 
+[^5]: Ucl. (2021, April 8). New multiple sclerosis subtypes identified using artificial intelligence. UCL News.<https://www.ucl.ac.uk/news/2021/apr/new-multiple-sclerosis-subtypes-identified-using-artificial-intelligence>. 
+
+[^6] What Is MS? National Multiple Sclerosis Society. (n.d.). <https://www.nationalmssociety.org/What-is-MS>.

@@ -82,7 +82,7 @@ The author likes to thank Gregor von Laszewski, Yohn Jairo, and Carlos Theran.
 
 ## 8. References
 
-[^1]: Eshaghi, A., Young, A. L., Wijeratne, P. A., Prados, F., Arnold, D. L., Narayanan, S., Guttmann, C. R. G., Barkhof, F., Alexander, D. C., Thompson, A. J., Chard, D., &amp; Ciccarelli, O. (2021, April 6). Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data. Nature News. https://www.nature.com/articles/s41467-021-22265-2. 
+[^1]: Eshaghi, A., Young, A. L., Wijeratne, P. A., Prados, F., Arnold, D. L., Narayanan, S., Guttmann, C. R. G., Barkhof, F., Alexander, D. C., Thompson, A. J., Chard, D., &amp; Ciccarelli, O. (2021, April 6). Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data. Nature News. <https://www.nature.com/articles/s41467-021-22265-2>. 
  
 [^2]: Mayo Foundation for Medical Education and Research. (2020, June 12). Multiple sclerosis. Mayo Clinic. <https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269>.
 

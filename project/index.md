@@ -2,7 +2,7 @@
 date: 2021-06-16
 title: "Project: Detecting Multiple Sclerosis Symptoms using AI" 
 linkTitle: "Multiple Sclerosis and AI"
-tags: ["project", "reu", "multiple sclerosis", "disease", "AI", "machine learning"]
+tags: ["project", "reu", "multiple sclerosis", "health", "ai"]
 description: "This work implements machine learning algorithim apply in Multiple Sclerosis symptoms and provides treatment options available"
 Author: "Raeven Hatcher"
 github_url: https://github.com/cybertraining-dsc/su21-reu-371/edit/main/project/index.md

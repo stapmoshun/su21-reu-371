@@ -47,24 +47,25 @@ Researchers at UCL work with the Artificial intelligence (AI) tool SuStain (Subt
 
 In this experiment, researchers utilized the SuStain tool to capture MRI scans of 6,332 patients. The unsupervised SuStain taught itself and identified those three patterns that were previously undiscovered.
 
-## 3. Using Images
+## 2. Figures
 
-![projectpic2](https://user-images.githubusercontent.com/85815818/126948339-7723b810-83e4-463b-a2b0-bf417fac4458.jpg)
-The above image shows the MRI-based subtypes. The color shades range from blue to pink, representing the probability of abnormality mild to severe, respectively. (Eshaghi) 
-![INSERTPIC](https://user-images.githubusercontent.com/85815818/127168907-4d7e444f-14bd-4ee3-8027-a7b0e5b7d213.jpg)
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-371/raw/main/project/images//MRI-subtypes.jpg)
 
-   
-## 4. Datasets
+**Figure 1:** The figure shows the MRI-based subtypes. The color shades range from blue to pink, representing the probability of abnormality mild to severe, respectively. (Eshaghi)
+
+![Figure 2](https://github.com/cybertraining-dsc/su21-reu-371/raw/main/project/images//EDSS-progression.jpg)
+
+**Figure 2:** This figure compares the training set and validation set of EDSS progression.
+
+## 3. Datasets
 
 MRI brain scans of 6,322 MS patients. look if you can find figures descrbing the data.
 
-
-
-## 5. Benchmark
+## 4. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common.
- 
-## 6. Conclusion
+
+## 5. Conclusion
 
 A vital barrier in distinguishing subtypes in Multiple sclerosis is to stitch observations together from cross-sectional or longitudinal studies. Grouping individuals based wholly on their MRI scan is ineffective because patients belonging to the same subgroup could show ranging abnormalities as the disease progresses and would appear different. SuStaIn, Subtype and Staging Inference, a newly developed unsupervised machine learning algorithm aids in uncovering data-driven disease subtypes that have distinct temporal progression patterns. "The ability to disentangle temporal and phenotypic heterogeneity makes SuStain different from other unsupervised learning or clustering algorithms" (Eshaghi). SuStaIn identifies subtypes given the data, defined by a particular pattern of variation in a set of features, such as MRI abnormalities. Once the SuStain subtypes and their MRI trajectories are adequately identified, the disease model can conclude how approximately a patient, whose MRI is unseen, belongs to each of the three subtypes and stages.
 
@@ -76,20 +77,26 @@ Each MRI-based subtype had a different response to treatment, comparing those on
 
 When SuStain was applied to a large set of Multiple sclerosis scans, it identified three subtypes. Researchers found out the patient's baseline subtype and stage were associated with an increased risk of disease progression. Combining clinical information with the MRI-based three subtypes increased the predictive accuracy of just using the MRI scan information alone. The patterns of MRI abnormality in these subtypes provide perspicacity into disease mechanisms, and, alongside clinical phenotypes, they may aid the stratification of patients for future studies. 
 
-## 7. Acknowledgments
+## 6. Acknowledgments
 
 The author likes to thank Gregor von Laszewski, Yohn Jairo, and Carlos Theran.
 
-## 8. References
+## 7. References
 
-[^1]: Eshaghi, A., Young, A. L., Wijeratne, P. A., Prados, F., Arnold, D. L., Narayanan, S., Guttmann, C. R. G., Barkhof, F., Alexander, D. C., Thompson, A. J., Chard, D., &amp; Ciccarelli, O. (2021, April 6). Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data. Nature News. <https://www.nature.com/articles/s41467-021-22265-2>. 
+[^1]: Eshaghi, A., Young, A. L., Wijeratne, P. A., Prados, F., Arnold, D. L., Narayanan, S., Guttmann, C. R. G., Barkhof, F., Alexander, D. C., Thompson, A. J., Chard, D., &amp; Ciccarelli, O. (2021, April 6). Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data. Nature News.
+      <https://www.nature.com/articles/s41467-021-22265-2>
  
-[^2]: Mayo Foundation for Medical Education and Research. (2020, June 12). Multiple sclerosis. Mayo Clinic. <https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269>.
+[^2]: Mayo Foundation for Medical Education and Research. (2020, June 12). Multiple sclerosis. Mayo Clinic.
+      <https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269>
 
-[^3]: MediLexicon International. (n.d.). Multiple sclerosis (MS): Types, symptoms, and causes. Medical News Today. <https://www.medicalnewstoday.com/articles/37556>.
- 
-[^4]: Skylar Kenney, A. E. (2021, April 12). Artificial Intelligence Identifies Novel Multiple Sclerosis Subtypes. Pharmacy Times. <https://www.pharmacytimes.com/view/artificial-intelligence-identifies-novel-multiple-sclerosis-subtypes>.
- 
-[^5]: Ucl. (2021, April 8). New multiple sclerosis subtypes identified using artificial intelligence. UCL News.<https://www.ucl.ac.uk/news/2021/apr/new-multiple-sclerosis-subtypes-identified-using-artificial-intelligence>. 
+[^3]: MediLexicon International. (n.d.). Multiple sclerosis (MS): Types, symptoms, and causes. Medical News Today.
+      <https://www.medicalnewstoday.com/articles/37556>
 
-[^6] What Is MS? National Multiple Sclerosis Society. (n.d.). <https://www.nationalmssociety.org/What-is-MS>.
+[^4]: Skylar Kenney, A. E. (2021, April 12). Artificial Intelligence Identifies Novel Multiple Sclerosis Subtypes. Pharmacy Times.
+      <https://www.pharmacytimes.com/view/artificial-intelligence-identifies-novel-multiple-sclerosis-subtypes>
+ 
+[^5]: Ucl. (2021, April 8). New multiple sclerosis subtypes identified using artificial intelligence. UCL News.
+      <https://www.ucl.ac.uk/news/2021/apr/new-multiple-sclerosis-subtypes-identified-using-artificial-intelligence>
+
+[^6]: What Is MS? National Multiple Sclerosis Society. (n.d.).
+      <https://www.nationalmssociety.org/What-is-MS>

@@ -49,11 +49,11 @@ In this experiment, researchers utilized the SuStain tool to capture MRI scans o
 
 ## 2. Figures
 
-![Figure 1](https://github.com/cybertraining-dsc/su21-reu-371/raw/main/project/images//MRI-subtypes.jpg)
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-371/raw/main/project/images/MRI-subtypes.jpg)
 
 **Figure 1:** The figure shows the MRI-based subtypes. The color shades range from blue to pink, representing the probability of abnormality mild to severe, respectively. (Eshaghi)
 
-![Figure 2](https://github.com/cybertraining-dsc/su21-reu-371/raw/main/project/images//EDSS-progression.jpg)
+![Figure 2](https://github.com/cybertraining-dsc/su21-reu-371/raw/main/project/images/EDSS-progression.jpg)
 
 **Figure 2:** This figure compares the training set and validation set of EDSS progression.
 
